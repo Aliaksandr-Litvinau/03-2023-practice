@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 30,
+        "email": "johndoe@example.com",
+        "updated": "2023-04-02T12:36:59.381996"
+    }
+]
